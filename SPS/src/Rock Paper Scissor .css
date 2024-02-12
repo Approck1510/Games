@@ -23,6 +23,7 @@ h1 {
 .choice:hover {
     cursor: pointer;
     background-color: #081b31;
+    transition: all 1s;
 }
 
 img {
@@ -65,8 +66,4 @@ img {
     display: inline;
     padding: 1rem;
     border-radius: 1rem;
-}
-
-.msg-1 {
-    padding: 20px;
 }
